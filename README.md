@@ -18,4 +18,6 @@ This repository **HiddenMerit's PostgreSQL Project** is licensed under Business 
 
 未经授权严禁商用、二次封装、转售分发。
 
-Email: contact@hiddenmerit.org
+Business contact：: contact@hiddenmerit.org
+
+WeChat ID：ClydeJin
